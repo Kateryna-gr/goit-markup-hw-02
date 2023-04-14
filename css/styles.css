@@ -45,7 +45,7 @@ body {
   color: var(--dark-grey);
 }
 
-.address-item {
+.address-list {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -82,6 +82,10 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .heading-third {
@@ -89,6 +93,11 @@ body {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.p-text {
+  font-size: 16px;
 }
 
 .button {
