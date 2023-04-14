@@ -26,7 +26,6 @@ body {
   letter-spacing: 0.03em;
   color: var(--primary-brand);
   text-transform: uppercase;
-  text-decoration: none;
 }
 
 .header-logo {
@@ -50,7 +49,6 @@ body {
   font-weight: 400;
   font-size: 16px;
   color: var(--text);
-  text-decoration: none;
 }
 
 .nav-item:focus,
@@ -138,6 +136,13 @@ body {
   background-color: var(--dark-grey);
 }
 
+.advant-section {
+}
+
 .team-section {
   background-color: var(--cloud);
+}
+
+.team-card {
+  background-color: #ffffff;
 }
