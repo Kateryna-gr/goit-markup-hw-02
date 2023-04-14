@@ -44,7 +44,8 @@ body {
   color: var(--dark-grey);
 }
 
-.address-list {
+.address-list,
+.address-item {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
